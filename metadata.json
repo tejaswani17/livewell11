@@ -1,0 +1,7 @@
+{
+  "name": "LiveWell Health",
+  "description": "A comprehensive health companion designed for seniors and patients, featuring medication reminders, SOS emergency alerts, health tracking, brain games, and gentle exercise nudges.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
